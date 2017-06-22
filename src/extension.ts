@@ -15,7 +15,7 @@ export function activate(context: vscode.ExtensionContext): void {
             "C-x_r",
 
             // Del-Mode
-            "alt-e", "alt-w"
+            "alt-w", "alt-r",
         ],
         cursorMoves: string[] = [
             "cursorUp", "cursorDown", "cursorLeft", "cursorRight",
