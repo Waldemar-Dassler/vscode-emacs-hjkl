@@ -13,10 +13,10 @@ Use `Shift+Insert` to paste from clipboard.
 | `ALT-h` | OK | Move backward |
 | `ALT-j` | OK | Move to the next line |
 | `ALT-k` | OK | Move to the previous line |
-| `C-a` | NO | Move to the beginning of line |
-| `C-e` | NO | Move to the end of line |
-| `M-f` | NO | Move forward by one word unit |
-| `M-b` | NO | Move backward by one word unit |
+| `ALT-a` | OK | Move to the beginning of line |
+| `ALT-e` | OK | Move to the end of line |
+| `ALT-f` | OK | Move forward by one word unit |
+| `ALT-b` | OK | Move backward by one word unit |
 | `M->` | NO | Move to the end of buffer |
 | `M-<` | NO | Move to the beginning of buffer |
 | `C-v` | NO | Scroll down by one screen unit |
