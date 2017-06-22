@@ -2,7 +2,7 @@
     "name": "vscode-emacs-hjkl",
     "displayName": "Emacs HJKL",
     "description": "Emacs extension with hjkl keys for moving in VScode",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "publisher": "waldemard",
     "icon": "icon.png",
     "homepage": "https://github.com/Waldemar-Dassler/vscode-emacs-hjkl",

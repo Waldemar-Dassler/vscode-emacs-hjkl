@@ -37,8 +37,8 @@ Use `Shift+Insert` to paste from clipboard.
 ### Edit command
 |Command | Status | Desc |
 |--------|--------|------|
-| `ALT-u` | OK | Delete right (DEL) |
-| `ALT-i` | OK | Delete left (BACKSPACE) |
+| `ALT-u` | OK | Delete right  (DEL) |
+| `ALT-i` | OK | Delete left  (BACKSPACE) |
 | `ALT-o` | OK | Delete word |
 | `C-k` | NO | Kill to line end |
 | `C-w` | NO | Kill region |
