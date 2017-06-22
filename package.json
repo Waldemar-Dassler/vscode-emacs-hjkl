@@ -2,7 +2,7 @@
     "name": "vscode-emacs-hjkl",
     "displayName": "Emacs HJKL",
     "description": "Emacs extension with hjkl keys for moving in VScode",
-    "version": "0.1.0",
+    "version": "0.4.0",
     "publisher": "waldemard",
     "icon": "icon.png",
     "homepage": "https://github.com/Waldemar-Dassler/vscode-emacs-hjkl",
@@ -189,7 +189,7 @@
                 "when": "editorTextFocus"
             },
             {
-                "key": "alt+d",
+                "key": "alts+d",
                 "command": "deleteWordRight",
                 "when": "editorTextFocus"
             },
